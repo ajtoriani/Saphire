@@ -1,8 +1,9 @@
 # Sephari 
-![LinkedIn](https://www.linkedin.com/in/ajtp/)
-![GitHub](https://github.com/ajtoriani)
-![Behance](https://www.behance.net/ajtp)
-![E-mail](mailto:anajuliatoriani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
+
 ## Sobre o Projeto
 
 O Saphire é um site para uma imobiliária fictícia, desenvolvido com HTML e CSS. Este projeto foi criado com o objetivo de praticar e aprimorar as habilidades de desenvolvimento web, focando em:
@@ -37,11 +38,11 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 Conecte-se comigo no LinkedIn:
 Ana Julia
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
 
-![LinkedIn](https://www.linkedin.com/in/ajtp/)
-![GitHub](https://github.com/ajtoriani)
-![Behance](https://www.behance.net/ajtp)
-![E-mail](mailto:anajuliatoriani@gmail.com)
 ## Licença
 Este projeto está sob a licença MIT.
 
